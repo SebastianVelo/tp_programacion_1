@@ -6,24 +6,14 @@
 /** CONSTANTES:
 /** |||||||||||||||||||||||||||||||||||  */
 /*
-OP_MIN: Opcion minima matematica.
-OP_MAX: Opcion maxima matematica.
-
+Opciones minimas y maximas.
 En caso de agregarse mas opciones, solo de modificaria esto
 */
-
 #define OP_MIN 1
 #define OP_MAX 6
 
 /*
-RESTA
-SUMA
-DIVISION
-MULTIPLICACION
-FACTORIAL
-ALL
-EXIT
-
+Operaciones
 En caso de pedir mas operaciones, sólo se modificaría esto
 */
 
@@ -114,8 +104,8 @@ float resultadoOperacion(float operandoA, float operandoB, int opcion){
 
 /** |||||||||||||||||||||||||||||||||||  */
 
-/** \brief factorial: Recibe un operando por parametro y muestra en pantalla su factorial
- *
+/** \brief factorial: Recibe un operando por parametro y muestra en pantalla su factorial si es valido.
+ *			
  * \param operando int
  * \return int
  *
@@ -129,7 +119,7 @@ int calc_factorial(int operando){
 }
 /** |||||||||||||||||||||||||||||||||||  */
 
-/** \brief operacion; Recibiendo dos operandos, realiza la operacion pasada por parametro, sin incluir el factorial
+/** \brief operacion; Recibiendo dos operandos, realiza la operacion pasada por parametro, si los operandos son validos (sin incluir el factorial)
  *
  * \param operandoA float
  * \param operandoB float
