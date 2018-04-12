@@ -8,14 +8,7 @@
 /** CONSTANTES:
 /** |||||||||||||||||||||||||||||||||||  */
 /*
-RESTA
-SUMA
-DIVISION
-MULTIPLICACION
-FACTORIAL
-ALL
-EXIT
-
+Operaciones
 En caso de pedir mas operaciones, sólo se modificaría esto
 */
 
@@ -28,8 +21,7 @@ En caso de pedir mas operaciones, sólo se modificaría esto
 #define EXIT 7
 
 /*
-TRUE
-FALSE
+Boolean
 */
 
 #define TRUE 1
