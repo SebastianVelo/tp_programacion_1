@@ -42,26 +42,3 @@ int getFloat(float *resultado, char* mensaje, char* mensajeError, int minimo, in
     return ret;
 }
 
-int getChar(char *resultado, char* mensaje, char* mensajeError, char minimo, char maximo, int reintentos){
-    char resultadoAux;
-    int ret = 0;
-    do{
-        fflush(stdin);
-
-		printf("%s", mensaje);
-        scanf("%c", &resultadoAux);
-        if(resultadoAux > minimo && resultadoAux < maximo){
-            *resultado = resultadoAux;
-            ret = 1;
-            break;
-        }
-        printf("%s", mensajeError);
-        reintentos--;
-    }while(reintentos > 0);
-
-    return ret;
-}
-
-int isNumber(int resultado){
-    return resultado / resultado == 1;
-}
