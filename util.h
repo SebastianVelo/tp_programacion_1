@@ -41,4 +41,3 @@ int getFloat(float *resultado, char* mensaje, char* mensajeError, int minimo, in
 
     return ret;
 }
-
