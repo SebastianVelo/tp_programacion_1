@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1523567499 source:c:\users\sebas\desktop\c\trabajopracticocalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"calc.h"
+	"util.h"
+
+1523567208 c:\users\sebas\desktop\c\trabajopracticocalculadora\calc.h
+	<stdio.h>
+	<stdlib.h>
+
+1523567722 c:\users\sebas\desktop\c\trabajopracticocalculadora\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1523567058 source:c:\users\sebas\desktop\c\trabajopracticocalculadora\util.c
+
+1523567219 source:c:\users\sebas\desktop\c\trabajopracticocalculadora\calc.c
+
+1523567154 c:\users\sebas\desktop\c\trabajopracticocalculadora\calc.c
+
