@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1527781741 source:c:\users\sebas\desktop\c\trabajo_practico_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"styles.h"
+	"arrayPelicula.h"
+
+1525918867 c:\users\sebas\desktop\c\trabajo_practico_3\util.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1525891654 c:\users\sebas\desktop\c\trabajo_practico_3\styles.h
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1527787437 c:\users\sebas\desktop\c\trabajo_practico_3\arraypelicula.h
+	"pelicula.h"
+
+1527453574 c:\users\sebas\desktop\c\trabajo_practico_3\pelicula.h
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"util.h"
+	"styles.h"
+
+1527804737 source:c:\users\sebas\desktop\c\trabajo_practico_3\pelicula.c
+	"pelicula.h"
+
+1525891845 source:c:\users\sebas\desktop\c\trabajo_practico_3\styles.c
+	"styles.h"
+
+1527709359 source:c:\users\sebas\desktop\c\trabajo_practico_3\util.c
+	"util.h"
+
+1527799690 source:c:\users\sebas\desktop\c\trabajo_practico_3\arraypelicula.c
+	"arrayPelicula.h"
+

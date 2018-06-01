@@ -1,0 +1,14 @@
+<article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src='URL' alt=''>
+                </a>
+                <h3>
+                    <a href='#'>TITLE</a>
+                </h3>
+				<ul>
+					<li>G&eacute;nero: GENDER</li>
+					<li>Puntaje: STARS</li>
+					<li>Duraci&oacute;n: DURATION</li>					
+				</ul>
+                <p> DESCRIPTION </p>
+</article>
