@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1530226872 source:c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\empleado.c
+	"empleado.h"
+
+1530224656 c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\empleado.h
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"util.h"
+	"styles.h"
+	"ArrayList.h"
+
+1530227611 source:c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\arraylist.h
+
+1530230126 source:c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Empleado.h"
+
+1530224564 c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\parser.h
+	"ArrayList.h"
+
+1530224569 source:c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\parser.c
+	"ArrayList.h"
+	"Empleado.h"
+
+1525918867 c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\util.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1525891654 c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\styles.h
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1525891845 source:c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\styles.c
+	"styles.h"
+
+1527709359 source:c:\users\sebas\downloads\segundo_parcial\segundo_parcial\ejercicio2doparcial\util.c
+	"util.h"
+
